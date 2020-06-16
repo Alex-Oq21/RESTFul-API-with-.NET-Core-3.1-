@@ -10,3 +10,15 @@ C:\Users\Alexis\source\repos\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialM
 C:\Users\Alexis\source\repos\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 C:\Users\Alexis\source\repos\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 C:\Users\Alexis\source\repos\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.deps.json
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.dll
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netstandard2.0\SocialMedia.Core.pdb
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.AssemblyInfo.cs
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
+C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache

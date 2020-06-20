@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lw3CT07F2RzIGrB1KciV7lEn5HWAu9uV1o8hA9V9x+6Q+TwQrVxB8L3wLKiCQU48Y+YUcmWugdfZmB5C/Mj5mw==",
+  "dgSpecHash": "iRgZLHjIPcxqiMQ7xzra55CR6GPjTnMNSN+sFdLUD5TdK1WpI9Tj6awbVdc2USUvtJXBJS1fshWNnpRGFB7Wbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

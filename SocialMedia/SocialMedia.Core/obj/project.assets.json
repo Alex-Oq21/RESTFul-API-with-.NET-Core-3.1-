@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
       "projectName": "SocialMedia.Core",
-      "projectPath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+      "projectPath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
       "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\obj\\",
+      "outputPath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

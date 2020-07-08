@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rq/OWes5iUWOAGG1eYDw8IRf9lvPAqDa7DrIjjAAex/xta3ZHPg48LHbRRUqlM8qMPYjoYROb01/ankTe4mQ1w==",
+  "dgSpecHash": "CKhtqHkx8E69CuAO1AqfF59v/B4maEJRwBwAcS+fA7I1ZeBTBDP0BjMAEV5AMV3ZBRnFGJGjfsiGn+8/d5gb3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "projectFilePath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

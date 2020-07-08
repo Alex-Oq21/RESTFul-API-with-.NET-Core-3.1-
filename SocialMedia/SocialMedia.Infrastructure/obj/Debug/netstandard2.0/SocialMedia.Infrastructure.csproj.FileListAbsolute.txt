@@ -21,4 +21,4 @@ C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMed
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CopyComplete
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.dll
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.pdb
-C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netstandard2.0\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache

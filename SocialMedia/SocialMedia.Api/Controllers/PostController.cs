@@ -39,6 +39,10 @@ namespace SocialMedia.Api.Controllers
         [HttpPost]
         public async Task<IActionResult>Post(PostDTO postDTO)
         {
+            if (! ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var post = _mapper.Map<Post>(postDTO);
             await _postRepository.InsertPost(post);
             return Ok(post);

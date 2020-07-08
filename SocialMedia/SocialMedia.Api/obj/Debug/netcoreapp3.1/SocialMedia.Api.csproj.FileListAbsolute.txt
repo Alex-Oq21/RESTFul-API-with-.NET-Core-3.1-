@@ -85,3 +85,9 @@ C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMed
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.csproj.CoreCompileInputs.cache
 C:\Users\Alexis\source\repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\obj\Debug\netcoreapp3.1\SocialMedia.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Alexis\Source\Repos\Alex-Oq21\RESTFul-API-with-.NET-Core-3.1-\SocialMedia\SocialMedia.Api\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

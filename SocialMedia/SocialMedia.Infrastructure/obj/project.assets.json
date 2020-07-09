@@ -8817,11 +8817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
       "projectName": "SocialMedia.Infrastructure",
-      "projectPath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8840,8 +8840,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
-              "projectPath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
+            "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj": {
+              "projectPath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj"
             }
           }
         }

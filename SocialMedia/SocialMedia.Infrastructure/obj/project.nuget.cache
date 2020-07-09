@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TgAsDTTIen4v/8cLTzMA4cnAKEHL30py2udvi6vtJwA0gaI0/qWcYRTGxdeJw5gD7osVASFotbM9OkX/qi/Xgw==",
+  "dgSpecHash": "n0X4m/WJ6+x9KQ85vQIe91LszJSiIMlBukIJaFTCfEwzI1GN02AFmrS1Ym3ZJekDCjf9faqwTR7B54DMfDzW+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexis\\Source\\Repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Alexis\\source\\repos\\Alex-Oq21\\RESTFul-API-with-.NET-Core-3.1-\\SocialMedia\\SocialMedia.Infrastructure\\SocialMedia.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexis\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Alexis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

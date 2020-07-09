@@ -16,7 +16,6 @@ namespace SocialMedia.Infrastructure.Validators
                .Length(10, 500);
 
             RuleFor(post => post.Date)
-              .NotNull()
               .LessThan(DateTime.Now);
         }
     }
